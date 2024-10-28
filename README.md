@@ -3,7 +3,7 @@
 
 [![header]][home]
 
-[![genshin-image]][genshin-link]
+![genshin-image]
 
 [![stats]][home]
 
