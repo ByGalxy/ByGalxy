@@ -10,8 +10,3 @@
 
 </div>
 [](https://blog.klbbx.cn/yuanshen-git.html)
-
-
-<div align='center'>
-
-![](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=ByGalxy&fontSize=45 )
