@@ -6,7 +6,7 @@
    <a>布莫ByGalxy</a>
 </h2>
  
-<p align="center"> 愿此行，终抵群星 </p>
+<p align="center"> 愿此行，终抵群星✨</p>
 
 </p>
 
