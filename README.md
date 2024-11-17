@@ -1,7 +1,7 @@
 <p align="center">
 
 <h2 align="center">
-   <a>BUmo</a>
+   <a>ByGalxy</a>
 </h2>
 
 <p align="center"> May this journey ultimately reach the stars✨</p>
