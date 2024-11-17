@@ -1,10 +1,10 @@
 <p align="center">
 
 <h2 align="center">
-   <a>布莫ByGalxy</a>
+   <a>BUmo</a>
 </h2>
 
-<p align="center"> 愿此行，终抵群星✨</p>
+<p align="center"> May this journey ultimately reach the stars✨</p>
 
 </p>
 
