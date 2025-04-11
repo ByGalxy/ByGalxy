@@ -1,20 +1,12 @@
-Here is the English translation of the given text:
-Regardless of whether you have a night and day concept, first best wishes to everyone good morning, noon, and evening.
+# ByGalaxy
+Regardless of whether you have a concept of daytime and nighttime, morning, noon, and evening are good.
 
-I am 布莫ByGalaxy, currently a cute newbee!
+I am BoMo By Galaxy. I am currently an adorable newbie!
 
-I don't have anything to say, so that's it.
-
-May this journey go on to reach the stars!
-
-Common natural languages:
-简体中文 | English
-
-Common programming languages:
-- Python
-- HTML
-- CSS
-- PHP
-- Java
+# Skills
+Natural Language: Simplified Chinese; English;
+Programming Languages: Python; HTML; CSS; PHP; Java;
+Layout Languages: Markdown
+Programming Frameworks: PyTorch
 
 ![language](https://github-readme-stats.vercel.app/api/top-langs?username=ByGalxy&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true )
