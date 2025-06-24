@@ -1,12 +1,12 @@
-# ByGalaxy
-Regardless of whether you have a concept of daytime and nighttime, morning, noon, and evening are good.
+嗨~
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=ByGalxy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
-I am BoMo By Galaxy. I am currently an adorable newbie!
+我是ByGalxy, 目前是一名在校学生，目前在人工智能专业研究。
 
-# Skills
+
+
+## Skills
  - Natural Language: Simplified Chinese; English;
  - Programming Languages: Python; HTML; CSS; PHP; Java;
  - Layout Languages: Markdown
  - Programming Frameworks: PyTorch
-
-![language](https://github-readme-stats.vercel.app/api/top-langs?username=ByGalxy&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true )
