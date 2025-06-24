@@ -1,12 +1,14 @@
-嗨~
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=ByGalxy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="right" src="https://komarev.com/ghpvc/?username=ByGalxy" alt="ByGalxy" />
 
-我是ByGalxy, 目前是一名在校学生，目前在人工智能专业研究。
+Hi~
 
+Regardless of your day/night cycle, first I wish everyone a good morning, afternoon, and evening!
 
+I'm ByGalxy, a current student majoring in Artificial Intelligence.
 
 ## Skills
  - Natural Language: Simplified Chinese; English;
- - Programming Languages: Python; HTML; CSS; PHP; Java;
+ - Programming Languages: Python; HTML; CSS; PHP; Java; C;
  - Layout Languages: Markdown
  - Programming Frameworks: PyTorch
