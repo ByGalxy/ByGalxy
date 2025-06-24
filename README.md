@@ -9,6 +9,6 @@ I'm ByGalxy, a current student majoring in Artificial Intelligence.
 
 ## Skills
  - Natural Language: Simplified Chinese; English;
- - Programming Languages: Python; HTML; CSS; PHP; Java; C;
+ - Programming Languages: Python; PHP; JavaScript; Java; C;
  - Layout Languages: Markdown
  - Programming Frameworks: PyTorch
