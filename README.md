@@ -12,3 +12,4 @@ I'm ByGalxy, a current student majoring in Artificial Intelligence.
  - Programming Languages: Python; PHP; JavaScript; Java; C;
  - Layout Languages: Markdown
  - Programming Frameworks: PyTorch
+<img src="https://count.kjchmc.cn/get/@:ByGalxy"/>
