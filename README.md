@@ -7,9 +7,4 @@ Regardless of your day/night cycle, first I wish everyone a good morning, aftern
 
 I'm ByGalxy, a current student majoring in Artificial Intelligence.
 
-## Skills
- - Natural Language: Simplified Chinese; English;
- - Programming Languages: Python; PHP; JavaScript; Java; C;
- - Layout Languages: Markdown
- - Programming Frameworks: PyTorch
 <img src="https://count.getloli.com/@:ByGalxy"/>
