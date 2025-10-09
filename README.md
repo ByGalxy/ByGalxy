@@ -5,6 +5,4 @@ Hi~
 
 Regardless of your day/night cycle, first I wish everyone a good morning, afternoon, and evening!
 
-I'm ByGalxy, a current student majoring in Artificial Intelligence.
-
 <img src="https://count.getloli.com/@:ByGalxy"/>
