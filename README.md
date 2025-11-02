@@ -3,15 +3,17 @@
 
 Hi~
 
-我应该是一个开发者
+I should be a developer.
 
 <img src="https://count.getloli.com/@:ByGalxy"/>
 
 <details><summary>Programming Languages</summary>
+<img style="width: 32px;" src="./icon/C.svg" alt="C" />
 <img style="width: 32px;" src="./icon/rust.svg" alt="Rust" />
+<img style="width: 32px;" src="./icon/java.svg" alt="Java" />
 <img style="width: 32px;" src="./icon/python.svg" alt="Python" />
 </details>
 
 <details><summary>Tools</summary>
-<img style="width: 32px;" src="./icon/vscode.svg" alt="VSCode" />
+<img style="width: 32px;" src="./icon/VSCode.svg" alt="VSCode" />
 </details>
