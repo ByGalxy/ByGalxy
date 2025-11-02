@@ -3,6 +3,15 @@
 
 Hi~
 
-Regardless of your day/night cycle, first I wish everyone a good morning, afternoon, and evening!
+我应该是一个开发者
 
 <img src="https://count.getloli.com/@:ByGalxy"/>
+
+<details><summary>Programming Languages</summary>
+<img style="width: 32px;" src="./icon/rust.svg" alt="Rust" />
+<img style="width: 32px;" src="./icon/python.svg" alt="Python" />
+</details>
+
+<details><summary>Tools</summary>
+<img style="width: 32px;" src="./icon/vscode.svg" alt="VSCode" />
+</details>
