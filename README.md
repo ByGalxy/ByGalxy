@@ -1,11 +1,11 @@
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=ByGalxy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=YxlaGyb&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 <img align="right" src="https://komarev.com/ghpvc/?username=ByGalxy" alt="ByGalxy" />
 
 Hi~
 
-I should be a developer.
+I'm YxlaGyb
 
-<img src="https://count.getloli.com/@:ByGalxy"/>
+<img src="https://count.getloli.com/@:YxlaGyb"/>
 
 <details><summary>Programming Languages</summary>
 <img style="width: 32px;" src="./icon/C.svg" alt="C" />
